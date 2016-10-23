@@ -2,6 +2,7 @@
 Urgent: http://campus.codeschool.com/courses/mastering-github/level/1/section/4/video/1
 
 http://www.pluralsight.com //cool, extensive coverge on Docker
+https://www.wintellectnow.com/ //nice!
 
 https://www.packtpub.com/books/subscription/mapt (go to Subscription Plans section)
 https://github.com/niqdev/packtpub-crawler
