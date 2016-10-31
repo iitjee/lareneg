@@ -7,6 +7,8 @@ https://www.wintellectnow.com/ //nice!
 https://www.packtpub.com/books/subscription/mapt (go to Subscription Plans section)
 https://github.com/niqdev/packtpub-crawler
 
+http://shop.oreilly.com/category/videos/security.do
+
 caster.io //for android
 
 http://www.bestcollegereviews.org/50-top-online-learning-sites/
