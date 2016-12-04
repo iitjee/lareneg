@@ -9,6 +9,8 @@ https://github.com/niqdev/packtpub-crawler
 
 http://shop.oreilly.com/category/videos/security.do
 
+http://www.unanth.com/quant-trading-using-machine-learning
+
 caster.io //for android
 
 http://www.bestcollegereviews.org/50-top-online-learning-sites/
