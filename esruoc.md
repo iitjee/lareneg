@@ -4,6 +4,8 @@ Urgent: http://campus.codeschool.com/courses/mastering-github/level/1/section/4/
 http://www.pluralsight.com //cool, extensive coverge on Docker
 https://www.wintellectnow.com/ //nice!
 
+masterclass.com   //awesome tuts from pro pro professionals
+
 https://www.packtpub.com/books/subscription/mapt (go to Subscription Plans section)
 https://github.com/niqdev/packtpub-crawler
 
