@@ -14,6 +14,8 @@ http://shop.oreilly.com/category/videos/security.do
 http://www.unanth.com/quant-trading-using-machine-learning
 
 caster.io //for android
+https://engineers.sg/video/enter-the-dragon-taming-llvm-ios-conf-sg-2016--1211 Lots of conference videos
+
 
 http://www.bestcollegereviews.org/50-top-online-learning-sites/
 
